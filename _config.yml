@@ -1,0 +1,11 @@
+title: Econometrics project using R
+logo: "images/number_answers.png" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/ivan-perez-saez/">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+
