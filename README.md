@@ -2,7 +2,7 @@
 
 ### Introduction
 
-More than 10 exercises where the use of Time Series knowledge is required. I srtart testing for the presence of unit roots, reviewing the auotocorrelation function, estimating models to produce forecasts and, finally, generating a Vector Autoregression model and a set impulse response functions.
+Work of more than 10 exercises where the use of Time Series knowledge is required. I srtart testing for the presence of unit roots, reviewing the auotocorrelation function, estimating models to produce forecasts and, finally, generating a Vector Autoregression model and a set impulse response functions.
 
 
 ### Installation and load data set
